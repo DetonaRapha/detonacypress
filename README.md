@@ -1,0 +1,2 @@
+# detonacypress
+cypress automação rp 
